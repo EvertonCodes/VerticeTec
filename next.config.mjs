@@ -5,10 +5,6 @@ const nextConfig = {
   basePath: '/VerticeTec',
   assetPrefix: '/VerticeTec/',
 
-  typescript: {
-    ignoreBuildErrors: true,
-  },
-
   images: {
     unoptimized: true,
   },
