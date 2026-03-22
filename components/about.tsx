@@ -68,7 +68,7 @@ export function About() {
                 className="relative rounded-2xl overflow-hidden border border-border aspect-square"
               >
                 <Image
-                  src="/images/team-collaboration.jpg"
+                  src="/VerticeTec/images/team-collaboration.jpg"
                   alt="Equipe trabalhando em projeto de robótica"
                   fill
                   className="object-cover"
@@ -79,7 +79,7 @@ export function About() {
                 className="relative rounded-2xl overflow-hidden border border-border aspect-square mt-8"
               >
                 <Image
-                  src="/images/student-project.jpg"
+                  src="/VerticeTec/images/student-project.jpg"
                   alt="Alunos apresentando projeto"
                   fill
                   className="object-cover"
@@ -90,7 +90,7 @@ export function About() {
                 className="relative rounded-2xl overflow-hidden border border-border aspect-square -mt-8"
               >
                 <Image
-                  src="/images/robotics-lecture.jpg"
+                  src="/VerticeTec/images/robotics-lecture.jpg"
                   alt="Palestra de robótica"
                   fill
                   className="object-cover"
@@ -101,7 +101,7 @@ export function About() {
                 className="relative rounded-2xl overflow-hidden border border-border aspect-square"
               >
                 <Image
-                  src="/images/workshop-environment.jpg"
+                  src="/VerticeTec/images/workshop-environment.jpg"
                   alt="Oficina meio ambiente"
                   fill
                   className="object-cover"
