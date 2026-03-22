@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // 🔥 ESSENCIAL
+  output: 'export',
 
   basePath: '/VerticeTec',
   assetPrefix: '/VerticeTec/',
