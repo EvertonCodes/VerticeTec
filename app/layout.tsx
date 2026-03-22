@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     icon: [
 
       {
-        url: '/fav2.png',
+        url: '/VerticeTec/fav2.png',
         type: 'image/svg+xml',
       },
     ],

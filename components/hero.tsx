@@ -169,7 +169,7 @@ export function Hero() {
               className="relative rounded-3xl overflow-hidden border-2 border-primary/30 shadow-2xl shadow-primary/20"
             >
               <Image
-                src="/images/hero-robotics.jpg"
+                src="/VerticeTec/images/hero-robotics.jpg"
                 alt="Crianças aprendendo robótica em oficina educacional"
                 width={600}
                 height={400}

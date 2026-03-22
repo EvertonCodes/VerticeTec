@@ -90,7 +90,7 @@ export function About() {
                 className="relative rounded-2xl overflow-hidden border border-border aspect-square -mt-8"
               >
                 <Image
-                  src="{`${process.env.NEXT_PUBLIC_BASE_PATH}/images/robotics-lecture.jpg}"
+                  src="/VerticeTec/images/robotics-lecture.jpg"
                   alt="Palestra de robótica"
                   fill
                   className="object-cover"

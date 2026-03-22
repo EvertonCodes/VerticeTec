@@ -115,7 +115,7 @@ export function Services() {
           >
             <div className="relative rounded-3xl overflow-hidden border border-border">
               <Image
-                src="/images/workshop-traffic.jpg"
+                src="/VerticeTec/images/workshop-traffic.jpg"
                 alt="Oficina de robótica em ação"
                 width={600}
                 height={400}
